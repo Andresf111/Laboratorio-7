@@ -21,16 +21,14 @@ Entender el funcionamiento de inductores y capacitores armando circuitos en las 
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
--	Laboratorio virtual ACDCLab
--	Generador de señales
--	Fuente DC.
--	Osciloscopio.
--	Protoboard
--	Multímetro
--	Cables conductores
--	Resistencias, bobinas y capacitores.
+a)Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-PROCEDIMIENTO
+b) Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/105386939/185275916-c377dc74-7fe7-4786-a92f-dc97483ad096.png)
 
