@@ -89,6 +89,16 @@ Para un valor eficaz se cumpliria que si al aplicar corriente alterna y luego co
 https://youtu.be/_fQ714Vt9Go
 
 
+6.CONCLUSIONES
+
+•Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
+
+•Se pudo usar el osciloscopio eficazmente, de forma que permitia generar las ondas que se requerían para encontrar los valores a hallar., además se logró identificar capacitores e inductancias en serie o paralelo.
+
+7.BIBLIOGRAFÍA
+
+•Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
 
 
 
