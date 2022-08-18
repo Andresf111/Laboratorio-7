@@ -56,6 +56,38 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/105386939/185276594-905930bf-6415-4d1d-bf85-d948c7eb1a8f.png)
 
+4. RESPUESTA A INTERROGANTES
+
+4.1. Análisis de resultados
+
+Para el primer circuito formado por los capacitores podemos ver por la tabla que a mayor frecuencia mayor corriente, por otro lado con el voltaje sucede lo contrario, va disminuyendo a medida que aumentamos la frecuencia.
+
+Para el segundo circuito formado por los inductores sucede lo contrario a lo que vimos en el primer circuito, cuando aumenta la frecuencia aumenta tambien el voltaje y la corriente empieza a disminuir, en ambos casos vimos que cuando la frecuencia es cero la corriente y el voltaje es cero.
+
+4.2. Preguntas
+
+A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Una bobina en corriente continua se comporta como un cortocircuito, ya que al ser corriente constante que no varia con el tiempo no se produce autoinduccion
+
+Los capacitores pueden conducir corriente continua durante sólo un instante (por lo cual podemos decir que los capacitores, para las señales continuas, es como un cortocircuito
+
+B.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+En corriente alterna, una bobina ideal ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva, el condensador se carga y descarga tantas veces como varíe la tensión.
+
+C.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Para el circuito formado por los capacitores se va a producir cambios en el voltaje y la corriente, para el circuito formado por los inductores lo unico que va a variar va a ser el voltaje ya que los inductores no tienen la capacidad de controlar la corriente.
+
+D.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Para un valor eficaz se cumpliria que si al aplicar corriente alterna y luego continua sobre una resistencia la potencia seria la misma
+
+5.VIDEO
+
+https://youtu.be/_fQ714Vt9Go
+
 
 
 
